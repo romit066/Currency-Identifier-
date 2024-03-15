@@ -3,11 +3,11 @@ Users of this webpage can enter currency codes, such as USD, to get a list of co
 
 Resources Used:
 
-Find the countries by currency by using
+Find the countries by currency by using : 
 https://restcountries.com/v3.1/currency/SEK
-Full documentation 
+Full documentation : 
 https://restcountries.com/#endpoints-currency
-For flag images
+For flag images : 
 https://flagsapi.com/#quick
-To find the flag code by country name 
+To find the flag code by country name : 
 https://flagcdn.com/en/codes.json
